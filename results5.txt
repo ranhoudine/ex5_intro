@@ -1,0 +1,17 @@
+a,64
+c,24
+#,24
+rainings,1
+cats,1
+and,2
+tuna,1
+ely,1
+kick,1
+don,1
+is,3
+lahs,1
+kicks,1
+no#,1
+rao#,1
+tut,2
+taas,1

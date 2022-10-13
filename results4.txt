@@ -1,0 +1,7 @@
+dog,1
+apple,1
+can,1
+toe,2
+Crop,1
+PoP,4
+he,1
